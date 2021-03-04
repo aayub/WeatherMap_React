@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Montserrat');
+
+body {
+    font-family: 'Montserrat' !important;
+    background: linear-gradient(to bottom, #060133 0%, #044396 100%) !important;
+    background-attachment: fixed !important;
+}
+
+.cardView {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.4) !important;
+    border-radius: 5em !important;
+    border-width: 0.5em !important;
+    border-color:rgb(33, 74, 112) !important;
+    color: white !important;
+}
+
+.cityTitle {
+    font-size: 5em !important;
+    font-weight: bold !important;
+}
+
+.imgandtemp {
+    justify-content: center;
+}
+
+.img{
+    height: 15em !important;
+    width: auto !important;
+}
+
+.date {
+    margin: 0;
+    padding: 0;
+    font-size: 1.5em !important;
+}
+
+.temp {
+    font-size: 10em !important;
+    font-weight: bold;
+}
+
+.lowandhightemp, .conditions {
+    font-size: 2em !important;
+    font-weight: 600;
+    justify-content: space-evenly;
+}
+

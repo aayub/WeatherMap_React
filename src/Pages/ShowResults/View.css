@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Montserrat');
+
+.row{
+    margin: 0 !important;
+}
+
+.card{
+    margin: 0.25em;
+    padding: 0.25em;
+    border-radius: 2em !important;
+    background: rgba(0, 0, 0, 0.4) !important;
+    color: white;
+    height: 100% !important;
+}
+
+.title {
+    margin: 0 !important;
+    padding: 0.5em !important;
+    font-size: 4em !important;
+    font-family: 'Montserrat';
+    font-weight: 900 !important;
+}
+
+.text{
+    margin: 0 !important;
+    padding: 0 !important;
+    font-size: 1em !important;
+}
+
+.flagimg {
+    width: 10%;
+    margin: 5px !important;
+}
+
+.iconimg {
+    justify-content: center;
+    width: 100% !important;
+}
+
+span{
+    font-weight: bold;
+}
+
+.deg {
+    font-size: 3em;
+    text-align: center;
+}

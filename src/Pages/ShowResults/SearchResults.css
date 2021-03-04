@@ -1,0 +1,9 @@
+.row {
+    margin: 0 !important;
+}
+
+.paginate{
+    margin: 1em !important;
+    padding: 1em !important;
+    justify-content: center;
+}
